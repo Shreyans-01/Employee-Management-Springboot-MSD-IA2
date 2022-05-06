@@ -9,5 +9,5 @@
 # Demo Video Link
 Please find the demo of the project in the drive link below-
 
-(add demo link)
+https://drive.google.com/drive/folders/1bPCPB1OAATU05Rr8ttlctJkaPbAQYd4O?usp=sharing
 
